@@ -15,5 +15,6 @@ This is a ViT based model which is pretrained on Imagenet dataset, with a specif
 ### Key things to note when using the dataset
 After preprocessing the dataset, I realise the files listed below are corrupted for some reason and was not able to be read by [pillow](https://pillow.readthedocs.io/en/stable/installation.html). I decided to remove the files that can't be read manually after testing the files one by one.
 
-These are the corrupted images that I found.//
+These are the corrupted images that I found.
+
 ![Capture](https://user-images.githubusercontent.com/67994195/133401930-85874880-1fdf-4b3f-b288-707a39ad5c1f.PNG)
