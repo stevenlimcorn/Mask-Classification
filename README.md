@@ -1,4 +1,4 @@
-# Mask-Detection
+# Mask-Classification
 
 ### Introduction
 This is an image classification model that classifies different ways of people wearing masks. The data is retrieved from kaggle, created by [KUCEV ROMAN](https://www.kaggle.com/tapakah68/medical-masks-part1). The dataset used has 40000 images with each 10000 images for each labels. 
