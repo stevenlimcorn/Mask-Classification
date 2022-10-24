@@ -1,6 +1,9 @@
 # Mask-Classification
 A ViT based image classification model that classifies whether a person is wearing a mask properly.
 
+## To See a Working APP 💻
+Follow this link ![here](https://huggingface.co/spaces/StevenLimcorn/mask-detection)
+
 ### Dataset
 The data is retrieved from kaggle, created by [KUCEV ROMAN](https://www.kaggle.com/tapakah68/medical-masks-part1). The dataset used has 40000 images with each 10000 images for each labels. 
 
