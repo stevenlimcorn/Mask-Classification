@@ -1,7 +1,8 @@
 # Mask-Classification
+A ViT based image classification model that classifies whether a person is wearing a mask properly.
 
-### Introduction
-This is an image classification model that classifies different ways of people wearing masks. The data is retrieved from kaggle, created by [KUCEV ROMAN](https://www.kaggle.com/tapakah68/medical-masks-part1). The dataset used has 40000 images with each 10000 images for each labels. 
+### Dataset
+The data is retrieved from kaggle, created by [KUCEV ROMAN](https://www.kaggle.com/tapakah68/medical-masks-part1). The dataset used has 40000 images with each 10000 images for each labels. 
 
 The labels are: 
 * TYPE 1 - There is no mask on the face.
